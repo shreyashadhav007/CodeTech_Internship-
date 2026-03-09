@@ -142,5 +142,6 @@ This project is for educational purposes as part of the CODTECH internship.
 
 ## 🙋‍♂️ Author
 
-[Your Name] – [Your Email]  
+[Name– Shreyash Adhav] [Your Email- shreyashadhav040@gmail.com]  
+
 *Intern at CODTECH*
